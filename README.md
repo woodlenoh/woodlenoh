@@ -1,4 +1,4 @@
-<h2 align="center">Hello, I'm woodlenoh 💫</h2>
+<h2 align="center">woodlenoh 💫</h2>
 
 <p align="center" style="font-size: 1.2em;">
   Exploring code and crafting digital experiences. <br>
@@ -7,7 +7,7 @@
 
 ---
 
-### 🛠️ Skills & Tools
+<h3 align="center"> 🛠️ Skills</h3>
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
