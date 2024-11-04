@@ -1,4 +1,4 @@
-<h2 align="center">woodlenoh 💫</h2>
+<h1 align="center">woodlenoh 💫</h1>
 
 <p align="center" style="font-size: 1.2em;">
   Exploring code and crafting digital experiences. <br>
@@ -21,10 +21,10 @@
 
 ### 🌟 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=woodlenoh&show_icons=true&theme=calm&icon_color=5F8DD3&title_color=6C5B7B&text_color=333333&bg_color=F3F3F3" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=woodlenoh&theme=calm" alt="GitHub Streak" />
-</p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=woodlenoh" alt="GitHub stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=woodlenoh" alt="GitHub Streak" />
+</div>
 
 ---
 
