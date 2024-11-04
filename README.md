@@ -1,13 +1,13 @@
 <h1 align="center">woodlenoh 💫</h1>
 
-<p align="center" style="font-size: 1.2em;">
+<p align="center">
   Exploring code and crafting digital experiences. <br>
   Always learning, always curious.
 </p>
 
 ---
 
-<h3 align="center"> 🛠️ Skills</h3>
+### 🛠️ Skills
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -40,10 +40,3 @@
 - [Project Moonlight](https://github.com/woodlenoh/project-moonlight) - A project inspired by the beauty of the night sky.
 - [Stellar](https://github.com/woodlenoh/stellar) - A simple, responsive website template.
 - [Nighthawk](https://github.com/woodlenoh/nighthawk) - A minimalist and clean portfolio theme.
-
----
-
-<p align="center" style="font-size: 1.1em;">
-  "A journey of code is a journey of discovery."<br>
-  Let's explore new ideas together.
-</p>
